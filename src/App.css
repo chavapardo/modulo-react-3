@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.post {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+}
+
+.post-detail {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+}
